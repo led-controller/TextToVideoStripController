@@ -4,6 +4,10 @@
   "description": "Controller for LED-Controller, that creates a text file based on the current Animation. After that it can be interpreted using a python script, showing the Animation.",
   "main": "dist/TextToVideoStripController.js",
   "types": "dist/TextToVideoStripController.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/led-controller/TextToVideoStripController.git"
+  },
   "scripts": {
     "build": "tsc"
   },
